@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf7d9474-e01d-4bd0-951a-59743e0fa36a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bi2QTJDTEVXnuN2MAizza7aeCM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Join_POM" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="automationPractice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner (1)">
+    <configuration name="TestRunner (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QAMastersHybrid2020 3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automationPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="automationPractice" />
+      <option name="MAIN_CLASS_NAME" value="automationPractice.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QAMastersHybrid2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automationPractice.Pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="automationPractice" />
+      <option name="MAIN_CLASS_NAME" value="automationPractice.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner (1)" />
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf7d9474-e01d-4bd0-951a-59743e0fa36a" name="Default Changelist" comment="" />
+      <created>1589100576703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589100576703</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1289" height="241" key="GridCell.Tab.0.bottom" timestamp="1619952007790">
+      <screen x="0" y="25" width="1440" height="824" />
+    </state>
+    <state width="1289" height="241" key="GridCell.Tab.0.bottom/0.25.1440.824@0.25.1440.824" timestamp="1619952007790" />
+    <state width="1158" height="189" key="GridCell.Tab.0.bottom/0.25.1440.825@0.25.1440.825" timestamp="1619951547431" />
+    <state width="1332" height="189" key="GridCell.Tab.0.bottom/0.25.1440.826@0.25.1440.826" timestamp="1619949967207" />
+    <state width="1289" height="241" key="GridCell.Tab.0.center" timestamp="1619952007789">
+      <screen x="0" y="25" width="1440" height="824" />
+    </state>
+    <state width="1289" height="241" key="GridCell.Tab.0.center/0.25.1440.824@0.25.1440.824" timestamp="1619952007789" />
+    <state width="1158" height="189" key="GridCell.Tab.0.center/0.25.1440.825@0.25.1440.825" timestamp="1619951547429" />
+    <state width="1332" height="189" key="GridCell.Tab.0.center/0.25.1440.826@0.25.1440.826" timestamp="1619949967206" />
+    <state width="1289" height="241" key="GridCell.Tab.0.left" timestamp="1619952007789">
+      <screen x="0" y="25" width="1440" height="824" />
+    </state>
+    <state width="1289" height="241" key="GridCell.Tab.0.left/0.25.1440.824@0.25.1440.824" timestamp="1619952007789" />
+    <state width="1158" height="189" key="GridCell.Tab.0.left/0.25.1440.825@0.25.1440.825" timestamp="1619951547428" />
+    <state width="1332" height="189" key="GridCell.Tab.0.left/0.25.1440.826@0.25.1440.826" timestamp="1619949967205" />
+    <state width="1289" height="241" key="GridCell.Tab.0.right" timestamp="1619952007790">
+      <screen x="0" y="25" width="1440" height="824" />
+    </state>
+    <state width="1289" height="241" key="GridCell.Tab.0.right/0.25.1440.824@0.25.1440.824" timestamp="1619952007790" />
+    <state width="1158" height="189" key="GridCell.Tab.0.right/0.25.1440.825@0.25.1440.825" timestamp="1619951547430" />
+    <state width="1332" height="189" key="GridCell.Tab.0.right/0.25.1440.826@0.25.1440.826" timestamp="1619949967206" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/automationPractice/Pages/BasePage.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

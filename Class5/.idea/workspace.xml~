@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33de3883-2e37-44a1-96e4-70029accfa5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k3uGzPDVVtTY6NzcvOEdL4bEvs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../src/SharmileesTasks" />
+  </component>
+  <component name="RunManager" selected="Application.Grades">
+    <configuration name="Calc2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise1.Calc2" />
+      <module name="Class5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionalStatements (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise3.ConditionalStatements" />
+      <module name="Class5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionalStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise2.ConditionalStatements" />
+      <module name="Class5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Grades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise3.Grades" />
+      <module name="Class5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Grades" />
+        <item itemvalue="Application.ConditionalStatements (1)" />
+        <item itemvalue="Application.ConditionalStatements" />
+        <item itemvalue="Application.Calc2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33de3883-2e37-44a1-96e4-70029accfa5e" name="Default Changelist" comment="" />
+      <created>1604941510346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604941510346</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="467" y="121" key="FileChooserDialogImpl" timestamp="1605052589890">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="467" y="121" key="FileChooserDialogImpl/0.0.1366.724@0.0.1366.724" timestamp="1605052589890" />
+    <state width="1324" height="256" key="GridCell.Tab.0.bottom" timestamp="1605052592523">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1324" height="256" key="GridCell.Tab.0.bottom/0.0.1366.724@0.0.1366.724" timestamp="1605052592523" />
+    <state width="1324" height="256" key="GridCell.Tab.0.center" timestamp="1605052592523">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1324" height="256" key="GridCell.Tab.0.center/0.0.1366.724@0.0.1366.724" timestamp="1605052592523" />
+    <state width="1324" height="256" key="GridCell.Tab.0.left" timestamp="1605052592523">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1324" height="256" key="GridCell.Tab.0.left/0.0.1366.724@0.0.1366.724" timestamp="1605052592523" />
+    <state width="1324" height="256" key="GridCell.Tab.0.right" timestamp="1605052592523">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1324" height="256" key="GridCell.Tab.0.right/0.0.1366.724@0.0.1366.724" timestamp="1605052592523" />
+    <state x="343" y="159" key="run.anything.popup" timestamp="1604956523963">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="343" y="159" key="run.anything.popup/0.0.1366.724@0.0.1366.724" timestamp="1604956523963" />
+  </component>
+</project>
